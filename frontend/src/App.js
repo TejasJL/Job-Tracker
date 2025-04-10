@@ -19,7 +19,7 @@ function App() {
     date: ""
   });
 
-  const API_URL = "http://localhost:5000/jobs";
+  const API_URL = "https://job-tracker-gghw.onrender.com";
 
   useEffect(() => {
     getJobs();

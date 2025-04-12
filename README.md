@@ -28,8 +28,16 @@ A full-stack web application to help students track job applications efficiently
 - **Deployment**: Vercel (Frontend), Render (Backend)
 
 ---
+---
 
+### 👤 Author
 
+**Tejas**  
+📧 [ftejas52@gmail.com](mailto:ftejas52@gmail.com)  
+
+💬 *For suggestions, collaboration, or just to connect — feel free to reach out via email.*  
+
+[![Email Me](https://img.shields.io/badge/Send%20Email-%F0%9F%93%A7%20ftejas52@gmail.com-ff512f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ftejas52@gmail.com)
 
 
 
